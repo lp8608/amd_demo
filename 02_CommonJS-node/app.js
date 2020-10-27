@@ -15,3 +15,4 @@ module3.bar()
 console.log(uniq(module3.arr))
 
 console.log('test push push origin dev')
+console.log('modify on dev and push dev and merge master')
