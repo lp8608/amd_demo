@@ -26,3 +26,5 @@ console.log('modify by others and push dev branch')
 console.log('modify by others and push dev branch1')
 console.log('modify by luopengc and on github web editor')
 console.log('modify by lipengak on local dev  commonjs app.js')
+
+console.log('add some thing in commonjs app.js by lipengak on local dev')
