@@ -20,3 +20,5 @@ console.log('test push push origin dev')
 console.log('modify on dev and push dev and merge master')
 
 console.log('modify on master')
+
+console.log('modify by others and push dev branch')
