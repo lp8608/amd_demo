@@ -23,3 +23,6 @@ console.log('modify on master')
 
 console.log('modify by lipengak and push local dev')
 console.log('modify by others and push dev branch')
+console.log('modify by others and push dev branch1')
+console.log('modify by luopengc and on github web editor')
+console.log('modify by lipengak on local dev  commonjs app.js')
