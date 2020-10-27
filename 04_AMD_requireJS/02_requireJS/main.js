@@ -13,5 +13,6 @@
 
     requirejs(['alerter'], function (alerter) {
         alerter.showMsg()
+        console.log('modify by lipengak  local dev requirejs main.js')
     });
 })();
