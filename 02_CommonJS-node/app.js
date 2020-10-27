@@ -22,3 +22,4 @@ console.log('modify on dev and push dev and merge master')
 console.log('modify on master')
 
 console.log('modify by lipengak and push local dev')
+console.log('modify by others and push dev branch')
