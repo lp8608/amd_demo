@@ -31,4 +31,6 @@ console.log('add some thing in commonjs app.js by lipengak on local dev')
 
 console.log('add something at 20201029 by lipengak')
 
+console.log('add console.log in vim by lipengak')
+
 
